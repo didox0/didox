@@ -1,0 +1,10 @@
+
+
+footer {
+    background-color: #000000; /* Replace with your desired color */
+    color: #ffffff; /* Optional: changes text color for better contrast */
+    padding: 20px 0; /* Optional: adds padding in the footer */
+    border-radius: 15px; /* Adjust the value for more or less curvature */
+    margin: 20px; /* Optional: adds space around the footer */
+}
+
